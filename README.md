@@ -1,2 +1,2 @@
 # C
-These are my #C codes
+These are my #C related class codes.
